@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Pushing changes"
+git push

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+URL="Replace with your build trigger with script url"
+echo "Running merge-job and pushin changes to remote..."
+curl --user username:password $URL
