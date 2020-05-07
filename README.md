@@ -57,3 +57,8 @@ This push operation will automatically trigger *test-deploy* job, that will crea
 ![prod](https://github.com/harsh-gautam/jenkins_project/blob/master/screenshots/master-deploy-1.png)
 ![prod](https://github.com/harsh-gautam/jenkins_project/blob/master/screenshots/master-deploy-2.png)
 ![prod](https://github.com/harsh-gautam/jenkins_project/blob/master/screenshots/master-deploy-3.png)
+
+
+## Further Possibilities
+1. Add a feature -- that will send notification to developer when there is a merge conflict.
+2. Add a feature -- send email/notification when developer pushes changes to dev , testing team will be automatically notified.
